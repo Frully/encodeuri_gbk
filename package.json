@@ -2,7 +2,7 @@
   "author": "marc <marc126@126.com>",
   "name": "encodeuri_gbk",
   "description": "convert utf-8 to gbk, and encodeuri",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/marc126/encodeuri_gbk",
   "repository": {
     "type": "git",
