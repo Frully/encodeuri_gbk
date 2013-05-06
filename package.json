@@ -12,7 +12,9 @@
   "dependencies": {
 	"iconv": "~1.1.3"
 	},
-  "devDependencies": {},
+  "devDependencies": {
+      "mocha": "*"
+  },
   "optionalDependencies": {},
   "engines": {
     "node": "*"
