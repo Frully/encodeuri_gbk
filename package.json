@@ -10,7 +10,7 @@
   },
   "main": "main.js",
   "dependencies": {
-	"iconv": "~1.1.3"
+	"iconv": "2.x"
 	},
   "devDependencies": {
       "mocha": "*"
